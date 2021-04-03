@@ -12,15 +12,28 @@
 
 # 1. Dados.
 > a)	Propósito: dataset para ser processados por métodos de Machine Learning.
+> 
 > b)	Tipos: texto, imagem, som, vídeo e mistura deles.
+> 
 > c)	Formatos: txt, png, jpg, csv, xlsx, mp4, mov etc.
+> 
 > d)	Origem: Internet e repositórios adequados ao projeto.
+> 
 > e)	Métodos de obtenção: Webscraping, webcrawler e repositórios.
-> f)	Tamanho: datasets em GB de tamanho variável 
+> 
+> f)	Tamanho: datasets em GB de tamanho variável.
+> 
 > g)	Utilização: Dados de treinamento, teste e validação dos MML.
-> h)	F1 – Fornecer informações descritivas adequadas (metadados) para > garantir que as pessoas que encontrarem seus dados possam entendê-los.
+> 
+> h)	F1 – Fornecer informações descritivas adequadas (metadados) para garantir que as pessoas que encontrarem seus dados possam entendê-los.
+
 > i)	F2- Depositar os dados em repositórios que providenciem um Digital Object Identifier (DOI), tais como, Zenodo ou ZivaHub.
+
 > j)	F3 – Padronização das palavras chaves e nomes usados.
+
+
+
+
 
 
 
