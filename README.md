@@ -23,4 +23,9 @@
 > - Organizar um repositório de dados de fake-news para saúde.
 
 ---
+## Citar
+> Zavaleta, Jorge. Machine Learning and Fake-news. GitHub:Repostório. 2021
+> .
+
+---
 #### <center>Plano de Gestão de dados,  Copyright &copy;  Jorge Zavaleta, 2021</center>
