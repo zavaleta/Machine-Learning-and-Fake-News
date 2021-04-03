@@ -3,7 +3,7 @@
 ---
 [DOI](aqui)
 ---
-# Projeto
+# Projeto - [note book](Plano_de_Gestao_de_Dados.ipynb)
 > ## Métodos de Machine Learning para Determinar Fake News em Saúde nas Mídias Sociais
 > ### Autor: Jorge Juan Zavaleta Gavidia
 > ### ORCID: 0000-0002-4747-8613
