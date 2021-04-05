@@ -2,7 +2,7 @@
 # Projeto de Pesquisa
 
 ---
-[DOI](aqui)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4663365.svg)](https://doi.org/10.5281/zenodo.4663365)
 
 ---
 > ## Métodos de Machine Learning para Determinar Fake News em Saúde nas Mídias Sociais
