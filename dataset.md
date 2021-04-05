@@ -14,7 +14,7 @@
 ---
 ## Dataset
 ---
-> O dataset esta composto por as seguites colunas:
+> O dataset esta composto por as seguites colunase e formaro csv:
 > - Editor/Autor - tipo texto
 > - Intencionalidade - tipo booleano
 > - Autenticidade - tipo booleano

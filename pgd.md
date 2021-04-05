@@ -3,8 +3,8 @@
 
 ---
 [DOI](aqui)
+
 ---
-# Projeto - [Notebook](Plano_de_Gestao_de_Dados.ipynb)
 > ## Métodos de Machine Learning para Determinar Fake News em Saúde nas Mídias Sociais
 > ### Autor: Jorge Juan Zavaleta Gavidia
 > ### ORCID: 0000-0002-4747-8613
@@ -22,6 +22,17 @@
 > ### 5. Segurança dos dados
 > ### 6. Aspectos éticos
 > ### 7. Outras Informações
+
+---
+> **[Jupyter Notebook](geracao_de_dados.ipynb)** da geração dos dados do dataset do projeto.
+
+---
+## Templates de PGD
+> - Um
+> - dois
+> - Três
+> - Quatro
+> - Cinco
 
 ---
 > Informações sobre o [dataset](dataset.md) usado no projeto
