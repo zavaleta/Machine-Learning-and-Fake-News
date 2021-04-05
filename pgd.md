@@ -33,7 +33,7 @@
 > - Cinco
 
 ---
-> **[Jupyter Notebook](Geracao_de_dados.ipynb)** da geração dos dados do dataset do projeto.
+> **[Jupyter Notebook](geracao_de_dados.ipynb)** da geração dos dados do dataset do projeto.
 
 
 ---
