@@ -5,7 +5,6 @@
 [DOI](aqui)
 
 ---
-# Projeto de Pesquisa
 ## Métodos de Machine Learning para Determinar Fake News em Saúde nas Mídias Sociais
 > ### Autor: Jorge Zavaleta
 > ### ORCID: 0000-0002-4747-8613
@@ -26,7 +25,7 @@
 > - Formato - texto, vídeo, imagem.
 
 ---
-## [Plano de Gestão de dados](pgd.md)
+> Informações sobre o [Plano de Gestão de dados](pgd.md) do projeto.
 
 ---
 ## Citar como:
