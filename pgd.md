@@ -24,9 +24,6 @@
 > ### 7. Outras Informações
 
 ---
-> **[Jupyter Notebook](geracao_de_dados.ipynb)** da geração dos dados do dataset do projeto.
-
----
 ## Templates de PGD
 > - Um
 > - dois
@@ -35,7 +32,11 @@
 > - Cinco
 
 ---
-> Informações sobre o [dataset](dataset.md) usado no projeto
+> **[Jupyter Notebook](geracao_de_dados.ipynb)** da geração dos dados do dataset do projeto.
+
+
+---
+> Informações sobre o **[dataset](dataset.md)** usado no projeto
 
 ---
 ## Citar como:
