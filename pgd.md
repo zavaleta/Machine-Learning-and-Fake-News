@@ -1,5 +1,6 @@
 ---
-# Plano de Gestão de dados
+# Projeto de Pesquisa
+
 ---
 [DOI](aqui)
 ---
@@ -10,6 +11,10 @@
 > ### Instituição: Programa de Pós-graduação em Informática - Universidade Federal do Rio de Janeiro (Brasil)
 > ### Fonte de Financiamiento: CAPES Tecnodigital
 
+---
+# Projeto de Pesquisa
+
+---
 # 1. Dados.
 > a)	Propósito: dataset para ser processados por métodos de Machine Learning.
 > 
