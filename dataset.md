@@ -29,8 +29,8 @@
 
 ---
 ## Citar como:
-> Zavaleta, Jorge. Machine Learning and Fake-news. GitHub:Repostório. 2021
-> 
+
+> Jorge Zavaleta. (2021, April 5). zavaleta/Machine-Learning-and-Fake-News: Repository of Machine Learning and Fake News (Version rfn_v1.0). Zenodo. http://doi.org/10.5281/zenodo.4663365
 
 ---
 #### <center>Plano de Gestão de dados,  Copyright &copy;  Jorge Zavaleta, 2021</center>
