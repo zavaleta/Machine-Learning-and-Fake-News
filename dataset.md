@@ -21,7 +21,7 @@
 > - Autenticidade - tipo booleano
 > - Facticidade - tipo booleano
 > - Conteúdo e contexto da Noticia - tipo texto
-> - Data - tipo data
+> - Data - tipo date
 > - Mídia digital e meio de divulgação - texto
 > - Formato - texto, vídeo, imagem.
 

@@ -13,24 +13,18 @@
 > ### Fonte de Financiamiento: CAPES Tecnodigital
 
 ---
-## Plano de Gestão de dados (PGD)
+## Templates dos Planos de Gestão de dados (PGD)
 
 ---
-> ### 1. Informações administrativas
-> ### 2. Resumo dos dados
-> ### 3. Dados FAIR
-> ### 4. Alocação de Recursos
-> ### 5. Segurança dos dados
-> ### 6. Aspectos éticos
-> ### 7. Outras Informações
+> - [DS-WIZAR](dswizard.md)
 
----
-## Templates de PGD
-> - Um
-> - dois
-> - Três
-> - Quatro
-> - Cinco
+> - [DMPOnline](dmponline.md)
+
+> - [DMPTool](dmptool.md)
+
+> - [Argos](argos.md)
+
+> - [Fiocruz](foicruz.md)
 
 ---
 > **[Jupyter Notebook](Gera_dados.ipynb)** da geração dos dados do dataset do projeto.
