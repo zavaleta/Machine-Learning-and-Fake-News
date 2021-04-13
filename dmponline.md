@@ -2,33 +2,11 @@
 
 ---
 
-# Projeto de Pesquisa
-
-
+## Plano de Gestão de dados (PGD) Usando DMPOnline
 
 ---
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4663365.svg)](https://doi.org/10.5281/zenodo.4663365)
-
-
-
----
-
-> ## Métodos de Machine Learning para Determinar Fake News em Saúde nas Mídias Sociais
-
-> ### Autor: Jorge Juan Zavaleta Gavidia
-
-> ### ORCID: 0000-0002-4747-8613
-
-> ### Instituição: Programa de Pós-graduação em Informática - Universidade Federal do Rio de Janeiro (Brasil)
-
-> ### Fonte de Financiamiento: CAPES Tecnodigital
-
-
-
----
-
-## Template do Plano de Gestão de dados (PGD)
 
 ---
 

@@ -1,19 +1,10 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zavaleta/Machine-Learning-and-Fake-News/main)
 ---
-# Projeto de Pesquisa
+
+## Plano de Gestão de dados (PGD) Usando DMPTool
 
 ---
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4663365.svg)](https://doi.org/10.5281/zenodo.4663365)
-
----
-> ## Métodos de Machine Learning para Determinar Fake News em Saúde nas Mídias Sociais
-> ### Autor: Jorge Juan Zavaleta Gavidia
-> ### ORCID: 0000-0002-4747-8613
-> ### Instituição: Programa de Pós-graduação em Informática - Universidade Federal do Rio de Janeiro (Brasil)
-> ### Fonte de Financiamiento: CAPES Tecnodigital
-
----
-## Template do Plano de Gestão de dados (PGD)
 
 ---
 ## [DMPTool](https://dmptool.org/)
@@ -21,22 +12,41 @@
 ![DMPTool](imagens/dmptool.png)
 
 ---
-> **DMPOnline** é uma ferramenta que apresenta de forma clara as informações necessárias e uma ajudas bem documentada para preencher o PGD. Pode ser licenciada para uso institucional e a UFRJ não faz parte de sua base de instituições licenciadas.
-> Esta ferramenta conta com as seções de **detalhes do projeto**, **contribuidores**, **visão geral do plano**, **escrever o plano**,** compatilhar** e **download** e com 13 questões que devem ser respondidas sobre:
-> - Coleta de dados (2 questões)
->> Tipos, formatos, volume e a metodologia usada para coletar ou criar os dados (dataset).
-> - Documentação e metadados (1 questão)
->> Documentação e metadados que acompanham o dataset.
-> - Ética e conformidade legal (2 questões)
->> Como será gerenciado as questões sobre a éticas, direitos autorais e propriedade inteletual.
-> - Armazenamento e backup (2 questões)
->> Como será realizado o armazemaneto, backup, acessos e a segurança dos dados.
-> - Seleção e preservação (2 questões)
->> Valor dos dados e tipo de repositório a ser usado para reter, compartilhar ou preservaar os dados.
-> - Compartilhamento de dados (2 questões)
->>  Repositório, formato ou restrição requerida para compartilhar os dados.
-> - Responsabilidade e recursos (2 questões)
->> Responsabilidades sobre o gerenciamento dos dados no projeto e repositórios.
+> **DMPTool** é uma ferramenta que apresenta um menu com as seguintes opções:
+
+- **Detalhar informações do projeto**
+> Informações sobre o projeto como título, resumo, datas de inicio e termino, Fonte de Financiamento.
+- **Autores e contribuidores**
+> Pesquisadores principal, equipe envolvida e o role deles noprojeto.
+- **Redação do plano**
+Nesta seção devem ser respondidas 13 questões ao respecto de:
+
+> **Coleção de Dados (2 questões)**
+>> Tipos dos dados a ser coletados ou criados, formatos, volume e a metodologia usada para coletar ou criar os dados.
+
+> **Documentatação e metadados (1 questão)**
+>> Documentação e metadados anexos ao PGD e que permitam a leitura e interpretação no futuro.
+
+> **Ética e conformidad legal (2 questões)**
+>> Gestão das questões éticas, direitos autorais e propriedade intelectual e reuso de dados.
+
+> **Armazenamento e Backup (2 questões)**
+>> Formas de armazenanto e backup dos dados durante o projeto e a gestão de acesso e segurança dos dados.
+
+> **Seleção e Preservação (2 questões)**
+>> Plano para reter, compartilhar, preservar e o tempo de duração dos *datasets*.
+
+> **Compartilhamento de dados (2 questões)**
+>> Forma para compartilhar os dados e/ou restrições sobre os mesmos.
+
+> **Responsabilidades e recursos (2 questões)**
+>> Responsavél pela gestão dos dados e recursos necessarios para entregar o PGD.
+
+
+- **Download**
+> Formados nos quais é gerado o PGD: csv, html, text, docx e json.
+- **Finalizar e publicar**
+> Determinar a visibilidade pública e organizacional do PGD.
 
 ---
 > Outros **[Templates](pgd.md)** de gerenciamento de dados para o projeto.

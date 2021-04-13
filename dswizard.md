@@ -17,6 +17,7 @@
 
 ---
 ## [DS-Wizard](https://ds-wizard.org/)
+
 ---
 ![DS-Wizard](imagens/dswizard.png)
 
@@ -49,8 +50,6 @@
 
 > **configurações**.
 >> Nome do Projeto, template e formato do documento a ser gerado.
-
-
 
 ---
 > Outros **[Templates](pgd.md)** de gerenciamento de dados para o projeto.
