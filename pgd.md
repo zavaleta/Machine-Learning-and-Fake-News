@@ -13,7 +13,7 @@
 > ### Fonte de Financiamiento: CAPES Tecnodigital
 
 ---
-## Experimentação de Planos de Gestão de dados (PGD)
+## Experimentação de Planos de Gestão de Dados (PGD)
 
 ---
 > - [DS-Wizard](dswizard.md)
@@ -24,7 +24,7 @@
 
 > - [Argos](argos.md)
 
-> - [Fiocruz](foicruz.md)
+> - [Fiocruz](fiocruz.md)
 
 ---
 # Tabela de comparação!!!
