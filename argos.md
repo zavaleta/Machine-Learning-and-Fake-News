@@ -14,24 +14,26 @@
 > **Argos** é uma ferramenta online que apresenta as seções de **criação de PGD** e adição do dataset usado no plano, **PGDs públicos** e **Descrição dos datasets públicos**
 
 > **My DMPs, My datasets**
-> Informações sobre o projeto, título, autor, resumo, financiador, ORCIDe dataset usado no projeto e conta com as seguintes seções:
+> Informações sobre o projeto, título, autor, resumo, financiador, ORCID e dataset usado e anexado no projeto e conta com as seguintes seções:
 > - Informações principais (7 questões)
->> Título, descrição, linguagem, visibilidade e pesquisadores (ORCID), orgazações e informações de contato.
+>> Título, descrição, linguagem, visibilidade e pesquisadores com seus respectivos ORCIDs de identificação, instituições e informações de contato do projeto e dos pesquisadores.
 
-> - Fundos de finaciamento (3 quatões)
->> Financiador e tipo de finaciamento
+> - Fundos de financiamento  (3 quatões)
+>> Financiador e tipo de verba (pública, privada, bolsa etc.)
 
-> - Informações sobre as licensas
->> Informações sobre licenças a usar o projeto (CC0 1.0)
+> - Informações sobre as licenças
+>> Informações sobre licenças usadas no projeto (CC0 1.0)
 
-> - Informações do dataset
->> Informações do dataset, tipos de dados, formatos e volume.
+> - Informações do *dataset*
+>> Informações do *dataset*, tipos de dados, formatos e volume que podem ser mais detalhadas na seção de adicionar o dataset ao projeto.
 
 > **DMPs públicos**
 >> Informações sobre PGDs e datasets criados e publicados usando Argos.
 
 > **Descrição de Datasets públicos**
->> Informações sobre os datasets anexados na criação dos diversos PGDs usando esta ferramenta.
+>> Informações sobre os datasets anexados na criação dos diversos PGDs usando Argos e disponíveis para usá-los como templates na criação de novos planos.
+
+> Exporta documentos em formato pdf, docx, XML e RDA JSON.
 
 ---
 > Outros **[Templates](pgd.md)** de gerenciamento de dados para o projeto.

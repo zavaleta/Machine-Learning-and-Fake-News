@@ -13,7 +13,7 @@
 > ### Fonte de Financiamiento: CAPES Tecnodigital
 
 ---
-## Planos de Gestão de dados (PGD)
+## Experimentação de Planos de Gestão de dados (PGD)
 
 ---
 > - [DS-Wizard](dswizard.md)
