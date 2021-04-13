@@ -40,23 +40,15 @@
 
 > Esta ferramenta permite gerar PGD em formatos de **csv**, **html**, **text**, **docx**, **json** e **pdf**.
 
-
-
 ---
 
 > Outros **[Templates](pgd.md)** de gerenciamento de dados para o projeto.
-
-
 
 ---
 
 ## Citar como:
 
-
-
 > Jorge Zavaleta. (2021, April 5). zavaleta/Machine-Learning-and-Fake-News: Repository of Machine Learning and Fake News (Version rfn_v1.0). Zenodo. http://doi.org/10.5281/zenodo.4663365
-
-
 
 ---
 

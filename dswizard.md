@@ -12,7 +12,7 @@
 ![DS-Wizard](imagens/dswizard.png)
 
 ---
-> **DS-Wizard** é uma ferramenta que apresenta dois modelos de conhecimento para gerar os PGDs e 3 modelos estandardizados (Horizon 2020 DMP, Science Europe DMP e maDMP) a partir dos quais são feitas as questões. Esta ferramenta conta com seções de:
+> **DS-Wizard** é uma ferramenta que apresenta dois modelos de conhecimento para gerar os PGDs e 3 modelos estandardizados (Horizon 2020 DMP, Science Europe DMP e maDMP) a partir dos quais são feitas as questões e ajuda para responder as mesmas. Esta ferramenta conta com seções de:
 > **Questionário** que apresenta oito capítulos com suas respectivas questões:
 > - Capítulo 1: Informação Administrativa
 >> Informações administrativas sobre o projeto, autor ou envolvidos no projeto, ORCID, e-mail, instituição, role e sua expertise para usar o PGD.
