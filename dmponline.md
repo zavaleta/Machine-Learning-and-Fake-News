@@ -19,7 +19,7 @@
 
 > **DMPOnline** é uma ferramenta que apresenta de forma clara as informações necessárias e uma ajudas bem documentada para preencher o PGD. Pode ser licenciada para uso institucional e a UFRJ não faz parte de sua base de instituições licenciadas.
 
-> Esta ferramenta conta com as seções de **detalhes do projeto**, **contribuidores**, **visão geral do plano**, **escrever o plano**,** compartilhar** e **download** e com 13 questões que devem ser respondidas sobre:
+> Esta ferramenta conta com as seções de **detalhes do projeto**, **contribuidores**, **visão geral do plano**, **escrever o plano**, **compartilhar**, **download** e com 13 questões sobre:
 
 > - Coleta de dados (2 questões)
 
