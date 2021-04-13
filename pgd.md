@@ -13,10 +13,10 @@
 > ### Fonte de Financiamiento: CAPES Tecnodigital
 
 ---
-## Templates dos Planos de Gestão de dados (PGD)
+## Planos de Gestão de dados (PGD)
 
 ---
-> - [DS-WIZAR](dswizard.md)
+> - [DS-Wizard](dswizard.md)
 
 > - [DMPOnline](dmponline.md)
 
@@ -25,6 +25,9 @@
 > - [Argos](argos.md)
 
 > - [Fiocruz](foicruz.md)
+
+---
+# Tabela de comparação!!!
 
 ---
 > **[Jupyter Notebook](Gera_dados.ipynb)** da geração dos dados do dataset do projeto.
