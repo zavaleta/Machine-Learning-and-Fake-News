@@ -42,6 +42,11 @@
 >> Ajusta o nome do projeto, *template* e formato final do documento a ser gerado.
 
 ---
+O DS-Wizard é uma ferramenta abrangente, ela se conecta com recursos externos (por exemplo, FAIRSharing, FAISsFAIR), avalia as respostas dos questionários em termos de métricas preditivas automatizadas para a prática FAIR e Open Science, como mostrado na figura a seguir.
+
+![Métricas](imagens/ds-metricas.png)
+
+---
 > Outros **[Templates](pgd.md)** de gerenciamento de dados para o projeto.
 
 ---
