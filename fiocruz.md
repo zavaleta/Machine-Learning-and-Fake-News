@@ -13,7 +13,8 @@
 ![Fiocruz](imagens/fiocruz.png)
 
 ---
-> Este *template* de PGD é customizado e ajustado às necessidades dos pesquisadores da Fiocruz no campo da saúde e seu alinhamento aos princípos FAIR(localizável, acessível, interoperável, reutilizável) com a finalidade de garantir sucesso de gestão.
+> O *template* de PGD é customizado e ajustado às necessidades da instituição, essa plataforma conta com duas opções de preenchimento: o modelo simplificado e o modelo FAIR, ambas divididas por seções que contemplam informações administrativas; descrição dos dados e/ou reuso dos dados existentes; documentação e qualidade dos dados; armazenamento e backup; requisitos legais e compartilhamento dos dados e preservação a longo prazo.
+> O PGD conta com textos explicativos para auxiliar no seu preenchimento, visando simplificar ao máximo o trabalho dos pesquisadores e considerando a diversidade de demandas.
 
 > Este *template* de plano foi retirado de [Veiga et al., 2019] com fines educacionais e consta das seguintes seções:
 
@@ -65,6 +66,8 @@
 >> G1 - Quem será o responsável pela gestão dos dados?
 >> G2 - Quais recursos (ex.: financeiros, tempo) serão dedicados à gestão de dados e à garantia que eles sejam FAIR (localizável, acessível, interoperável, reutilizável)?
 >> G3 - Para projetos colaborativos, explique como será a coordenação da gestão de dados e as responsabilidades de cada um dos parceiros
+
+> O PGD pode ser exportado após seu preenchimento no formato **pdf**.
 
 ---
 > Outros **[Templates](pgd.md)** de gerenciamento de dados para o projeto.
