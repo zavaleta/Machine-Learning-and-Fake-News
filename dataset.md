@@ -32,7 +32,7 @@ Meio_divulgacao  | Texto        | string | variável | Divulgação em redes soc
 >> **Tamanho (bytes)** = variável: Ainda em etapa de análise e deve mudar de tamanho depois de fazer pré-processamento e limpeza das informações desses campos. O dicionário também pode mudar ao adicionar ou reduzir variáveis segundo seja o resultado da análise.
 
 ---
-> Informações sobre **[dataset](dataset.md)** do projeto
+> Informações sobre **[Jupyter Notebook](Gera_dados.ipynb)** do dataset do projeto
 
 > Informações sobre o **[Plano de Gestão de dados](pgd.md)** do projeto.
 
