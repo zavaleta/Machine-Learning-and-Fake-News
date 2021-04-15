@@ -33,6 +33,7 @@ Meio_divulgacao  | Texto        | string | variável | Divulgação em redes soc
 
 ---
 > Informações sobre **[dataset](dataset.md)** do projeto
+
 > Informações sobre o **[Plano de Gestão de dados](pgd.md)** do projeto.
 
 ---
