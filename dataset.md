@@ -18,18 +18,24 @@
 
  Nome do campo   | Tipo de dado | Formato  |Tamanho (bytes)| Descrição                 |
 :----------------|:------------:|:--------:|:-------------:|:--------------------------|
-Autor_Editor     | Texto        | string   |      32       | Autor-editor da mensagem
-Intencionalidade | Booleano     | booleano |      4        | Intencionalidade da mensagem
-Autenticidade    | Booleano     | booleano |      4        | Autenticidade da mensagem
-Facticidade      | Booleano     | booleano |      4        | Facticidade da mensagem
-Conteúdo         | Texto        | string   |   variável    | Texto, imagem ou vídeo da mensagem
-Contexto         | Texto        | string   |   variável    | Contexto da mensagem (geral, política, educação, economia, saúde etc.)
-Data             | Date         | date     |    8          | Data de criação ou edição da mensagem
-Midia_Digital    | misto        | string, mp4, imagem  |  variável | Mensagem em texto, imagem e vídeo ou mistura deles.
-Meio_divulgacao  | Texto        | string | variável | Divulgação em redes sociais ou outros
+fonte            | Texto        | string   |      20       | Origem da mensagem
+autor_Editor     | Texto        | string   |      32       | Autor-editor da mensagem
+titulo_mensagem  | Texto        | string   |      32       | Título da mensagem
+intencionalidade | Booleano     | booleano |      4        | Intencionalidade da mensagem
+autenticidade    | Booleano     | booleano |      4        | Autenticidade da mensagem
+facticidade      | Booleano     | booleano |      4        | Facticidade da mensagem
+conteúdo         | Texto        | string   |   variável    | Texto, imagem ou vídeo da mensagem
+contexto         | Texto        | string   |   variável    | Contexto da mensagem (geral, política, educação, economia, saúde etc.)
+data             | Date         | date     |    8          | Data de criação ou edição da mensagem
+tipo_fake        | Texto        | string   | 20       | Tipo de fake-news (sátira, parodia etc.) em alguns casos este campo pode aparecer como **categoria**
+link             | texto        | string   | variável | url da mensagem
+imagem           | imagem       | png, jpg | variável | imagem que acompanha a mensagem
+video            | video        | mp4, mov | variável | mensagem em vídeo
+meio_divulgacao  | Texto        | string   | variável | Divulgação em redes sociais ou outros
+
 
 > **Observações sobre o dicionário de dados**
->> **Tamanho (bytes)** = variável: Ainda em etapa de análise e deve mudar de tamanho depois de fazer pré-processamento e limpeza das informações desses campos. O dicionário também pode mudar ao adicionar ou reduzir variáveis segundo seja o resultado da análise.
+>> **Tamanho (bytes)** = variável: Ainda em etapa de análise e deve mudar de tamanho depois de fazer pré-processamento e limpeza das informações desses campos. O dicionário também pode mudar ao adicionar ou reduzir variáveis segundo seja o resultado da análise ou as necessidades no decorrer da pesquisa.
 
 ---
 > Informações sobre **[Jupyter Notebook](Gera_dados.ipynb)** do dataset do projeto
