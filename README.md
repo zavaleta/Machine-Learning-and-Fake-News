@@ -18,9 +18,10 @@
 > - Organizar um repositório de dados de fake-news para saúde.
 
 ---
+## [Plano de Gestão de Dados](pgd.md)
+
 ## [Dataset](dataset.md)
 
-## [Plano de Gestão de Dados](pgd.md)
 ---
 ## Citar como:
 
