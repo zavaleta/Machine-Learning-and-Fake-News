@@ -13,20 +13,27 @@
 > ### Fonte de Financiamiento: CAPES Tecnodigital
 
 ---
-## Dataset
+## Dicionário de dados do Dataset
 ---
-> O dataset esta composto por as seguites colunase e formaro csv:
-> - Editor/Autor - tipo texto
-> - Intencionalidade - tipo booleano
-> - Autenticidade - tipo booleano
-> - Facticidade - tipo booleano
-> - Conteúdo e contexto da Noticia - tipo texto
-> - Data - tipo date
-> - Mídia digital e meio de divulgação - texto
-> - Formato - texto, vídeo, imagem.
+
+ Nome do campo   | Tipo de dado | Formato  |Tamanho (bytes)| Descrição                 |
+:----------------|:------------:|:--------:|:-------------:|:--------------------------|
+Autor_Editor     | Texto        | string   |      32       | Autor-editor da mensagem
+Intencionalidade | Booleano     | booleano |      4        | Intencionalidade da mensagem
+Autenticidade    | Booleano     | booleano |      4        | Autenticidade da mensagem
+Facticidade      | Booleano     | booleano |      4        | Facticidade da mensagem
+Conteúdo         | Texto        | string   |   variável    | Texto, imagem ou vídeo da mensagem
+Contexto         | Texto        | string   |   variável    | Contexto da mensagem (geral, política, educação, economia, saúde etc.)
+Data             | Date         | date     |    8          | Data de criação ou edição da mensagem
+Midia_Digital    | misto        | string, mp4, imagem  |  variável | Mensagem em texto, imagem e vídeo ou mistura deles.
+Meio_divulgacao  | Texto        | string | variável | Divulgação em redes sociais ou outros
+
+> **Observações sobre o dicionário de dados**
+>> **Tamanho (bytes)** = variável: Ainda em etapa de análise e deve mudar de tamanho depois de fazer pré-processamento e limpeza das informações desses campos. O dicionário também pode mudar ao adicionar ou reduzir variáveis segundo seja o resultado da análise.
 
 ---
-> Informações sobre o [Plano de Gestão de dados](pgd.md) do projeto.
+> Informações sobre **[dataset](dataset.md)** do projeto
+> Informações sobre o **[Plano de Gestão de dados](pgd.md)** do projeto.
 
 ---
 ## Citar como:
