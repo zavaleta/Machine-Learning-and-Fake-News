@@ -3,7 +3,7 @@
 ## Plano de Gestão de dados (PGD) Usando DS-Wizard
 
 ---
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4663365.svg)](https://doi.org/10.5281/zenodo.4663365)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4697918.svg)](https://doi.org/10.5281/zenodo.4697918)
 
 ---
 ## [DS-Wizard](https://ds-wizard.org/)
@@ -52,7 +52,7 @@ O DS-Wizard é uma ferramenta abrangente, ela se conecta com recursos externos (
 ---
 ## Citar como:
 
-> Jorge Zavaleta. (2021, April 5). zavaleta/Machine-Learning-and-Fake-News: Repository of Machine Learning and Fake News (Version rfn_v1.0). Zenodo. http://doi.org/10.5281/zenodo.4663365
+> Jorge Zavaleta. (2021, April 5). zavaleta/Machine-Learning-and-Fake-News: Repository of Machine Learning and Fake News (Version rfn_v1.0). Zenodo. https://doi.org/10.5281/zenodo.4697918
 
 ---
 #### <center>Plano de Gestão de dados,  Copyright &copy;  Jorge Zavaleta, 2021</center>

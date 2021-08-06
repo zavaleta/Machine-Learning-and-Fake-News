@@ -4,7 +4,7 @@
 ## Plano de Gestão de Dados Usando DMPTool
 
 ---
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4663365.svg)](https://doi.org/10.5281/zenodo.4663365)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4697918.svg)](https://doi.org/10.5281/zenodo.4697918)
 
 ---
 ## [DMPTool](https://dmptool.org/)
@@ -56,7 +56,7 @@
 ---
 ## Citar como:
 
-> Jorge Zavaleta. (2021, April 5). zavaleta/Machine-Learning-and-Fake-News: Repository of Machine Learning and Fake News (Version rfn_v1.0). Zenodo. http://doi.org/10.5281/zenodo.4663365
+> Jorge Zavaleta. (2021, April 5). zavaleta/Machine-Learning-and-Fake-News: Repository of Machine Learning and Fake News (Version rfn_v1.0). Zenodo. https://doi.org/10.5281/zenodo.4697918
 
 ---
 #### <center>Plano de Gestão de dados,  Copyright &copy;  Jorge Zavaleta, 2021</center>
