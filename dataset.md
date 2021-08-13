@@ -45,7 +45,7 @@ meio_divulgacao  | Texto        | string   | variável | Divulgação em redes s
 ---
 ## Citar como:
 
-> Jorge Zavaleta. (2021, April 5). zavaleta/Machine-Learning-and-Fake-News: Repository of Machine Learning and Fake News (Version rfn_v1.0). Zenodo. https://doi.org/10.5281/zenodo.4697918
+> Jorge Zavaleta. (2021). zavaleta/Machine-Learning-and-Fake-News: Repository of Machine Learning and Fake News (Version rfn_v1.0). Zenodo. https://doi.org/10.5281/zenodo.4697918
 
 ---
 #### <center>Plano de Gestão de dados,  Copyright &copy;  Jorge Zavaleta, 2021</center>
