@@ -75,6 +75,10 @@ RDA JSON        |    -       |     -      |    -      |   x     |   -
 > Informações sobre o **[dataset](dataset.md)** usado no projeto
 
 ---
+## Artigo:
+> Estas informações complementares fazem parte do artigo **Criação de Planos de Gestão de Dados em Projetos de Ciência de Dados para Detecção de Fake News Apoiados pelos princípios FAIR**. Zavaleta, J., Pinheiro, A., Cerceau, R., Lima, C., Campos, M., & da Cruz, S. (**Melhor artigo do ERSI-RJ 2021**). [<img src="imagens/pdf.png" width="20" height="20" />](https://doi.org/10.5753/ersirj.2021.16981)
+
+---
 ## Citar como:
 
 > Jorge Zavaleta. (2021). zavaleta/Machine-Learning-and-Fake-News: Repository of Machine Learning and Fake News (Version rfn_v1.0). Zenodo. https://doi.org/10.5281/zenodo.4697918
