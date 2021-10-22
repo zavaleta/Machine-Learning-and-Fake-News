@@ -26,7 +26,7 @@
 ## Artigos:
 - **Criação de Planos de Gestão de Dados em Projetos de Ciência de Dados para Detecção de Fake News Apoiados pelos princípios FAIR**. Zavaleta, J., Pinheiro, A., Cerceau, R., Lima, C., Campos, M., & da Cruz, S. (**Melhor artigo do ERSI-RJ 2021**). [<img src="imagens/pdf.png" width="20" height="20" />](https://doi.org/10.5753/ersirj.2021.16981)
 
-- **Datasets Curados e Enriquecidos com Proveniência da Campanha Nacional de Vacinação Contra COVID-19**. Gonçalves, M., dos Santos, J., Ferreira, C., Zavaleta, J., Cruz, S., & Sampaio, J. (** Artigo com mensão honrosa**). [<img src="imagens/pdf.png" width="20" height="20" />](https://doi.org/10.5753/dsw.2021.17423)
+- **Datasets Curados e Enriquecidos com Proveniência da Campanha Nacional de Vacinação Contra COVID-19**. Gonçalves, M., dos Santos, J., Ferreira, C., Zavaleta, J., Cruz, S., & Sampaio, J. (**Artigo com mensão honrosa**). [<img src="imagens/pdf.png" width="20" height="20"/>](https://doi.org/10.5753/dsw.2021.17423)
 
 ---
 ## Citar como:
